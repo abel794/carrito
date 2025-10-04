@@ -1,0 +1,16 @@
+.producto-card{
+    border: 1px solid #ccc;
+    padding: 1rem;
+    margin: 0.5rem;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    width: 250px;
+
+}
+.producto-nombre{
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+.producto-card{
+    color: #555;
+}
